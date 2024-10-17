@@ -4,4 +4,4 @@ import ui from "./ui/index.js";
 ui();
 router();
 
-let hello = 9;
+var hello = 9;
